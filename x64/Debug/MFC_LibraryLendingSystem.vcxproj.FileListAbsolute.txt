@@ -1,0 +1,4 @@
+C:\Users\杰叭\Desktop\MFC_LibraryLendingSystem_10.6-from李杰\x64\Debug\MFC_LibraryLendingSystem.exe
+C:\Users\杰叭\Desktop\MFC_LibraryLendingSystem_11.7-from李杰\x64\Debug\MFC_LibraryLendingSystem.exe
+D:\学习\2.5\MFC_LibraryLendingSystem_11.7-from李杰\x64\Debug\MFC_LibraryLendingSystem.exe
+G:\计科2班小学期作业\第3组\MFC_LibraryLendingSystem_11.9\x64\Debug\MFC_LibraryLendingSystem.exe

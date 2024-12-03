@@ -1,0 +1,23 @@
+﻿  pch.cpp
+D:\学习\大学\大二\大二下\小学期\code\MFC_LibraryLendingSystem_10.6-from李杰\Data.h(41,10): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MFC_AdminMenu.cpp
+  MFC_BookManage.cpp
+  MFC_BookManage_DBclick.cpp
+  MFC_BookMessAddDlg.cpp
+  MFC_BookMessDeleteDlg.cpp
+  MFC_BorrowBookShow_DBclick.cpp
+  MFC_BorrowList.cpp
+  MFC_BorrowMenu.cpp
+  MFC_LibraryLendingSystem.cpp
+  MFC_LibraryLendingSystemDlg.cpp
+  MFC_MenuLogFalse.cpp
+  MFC_ReturnList.cpp
+  MFC_ReturnListShow_DBclick.cpp
+  MFC_StudentBorrowList.cpp
+  MFC_StudentManage.cpp
+  MFC_StudentMessAddALotDlg.cpp
+  MFC_StudentMessAddDlg.cpp
+  MFC_StudentMessDeleteDlg.cpp
+  MFC_StudentMessShow_DBclick.cpp
+  正在生成代码...
+  MFC_LibraryLendingSystem.vcxproj -> D:\学习\大学\大二\大二下\小学期\code\MFC_LibraryLendingSystem_10.6-from李杰\Debug\MFC_LibraryLendingSystem.exe
